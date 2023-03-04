@@ -1,0 +1,7 @@
+Print('hello world')
+a=10
+b=20
+c=a+b
+print(c)
+
+print('see my status')
