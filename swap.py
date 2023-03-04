@@ -1,5 +1,5 @@
 x=10
 y=30
-print(x,y)
+print('befor x  and y value:'x,y)
 x,y=y,x
-print(x,y)
+print('after x  and y value:'x,y)
